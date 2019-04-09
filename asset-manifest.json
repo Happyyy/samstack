@@ -1,15 +1,15 @@
 {
-  "main.css": "/users/hfeng/repo/samstack-build/static/css/main.0ce8044b.chunk.css",
-  "main.js": "/users/hfeng/repo/samstack-build/static/js/main.60937f9b.chunk.js",
-  "main.js.map": "/users/hfeng/repo/samstack-build/static/js/main.60937f9b.chunk.js.map",
-  "runtime~main.js": "/users/hfeng/repo/samstack-build/static/js/runtime~main.31e7a433.js",
-  "runtime~main.js.map": "/users/hfeng/repo/samstack-build/static/js/runtime~main.31e7a433.js.map",
-  "static/css/2.fbe3af13.chunk.css": "/users/hfeng/repo/samstack-build/static/css/2.fbe3af13.chunk.css",
-  "static/js/2.046341bf.chunk.js": "/users/hfeng/repo/samstack-build/static/js/2.046341bf.chunk.js",
-  "static/js/2.046341bf.chunk.js.map": "/users/hfeng/repo/samstack-build/static/js/2.046341bf.chunk.js.map",
-  "index.html": "/users/hfeng/repo/samstack-build/index.html",
-  "precache-manifest.6268acc3c85001ec7efaa45869d4afb3.js": "/users/hfeng/repo/samstack-build/precache-manifest.6268acc3c85001ec7efaa45869d4afb3.js",
-  "service-worker.js": "/users/hfeng/repo/samstack-build/service-worker.js",
-  "static/css/2.fbe3af13.chunk.css.map": "/users/hfeng/repo/samstack-build/static/css/2.fbe3af13.chunk.css.map",
-  "static/css/main.0ce8044b.chunk.css.map": "/users/hfeng/repo/samstack-build/static/css/main.0ce8044b.chunk.css.map"
+  "main.css": "/Happyyy/samstack/static/css/main.0ce8044b.chunk.css",
+  "main.js": "/Happyyy/samstack/static/js/main.a2533dae.chunk.js",
+  "main.js.map": "/Happyyy/samstack/static/js/main.a2533dae.chunk.js.map",
+  "runtime~main.js": "/Happyyy/samstack/static/js/runtime~main.09d8c75c.js",
+  "runtime~main.js.map": "/Happyyy/samstack/static/js/runtime~main.09d8c75c.js.map",
+  "static/css/2.fbe3af13.chunk.css": "/Happyyy/samstack/static/css/2.fbe3af13.chunk.css",
+  "static/js/2.046341bf.chunk.js": "/Happyyy/samstack/static/js/2.046341bf.chunk.js",
+  "static/js/2.046341bf.chunk.js.map": "/Happyyy/samstack/static/js/2.046341bf.chunk.js.map",
+  "index.html": "/Happyyy/samstack/index.html",
+  "precache-manifest.977ba0b86f06171c7f916f11ef75782c.js": "/Happyyy/samstack/precache-manifest.977ba0b86f06171c7f916f11ef75782c.js",
+  "service-worker.js": "/Happyyy/samstack/service-worker.js",
+  "static/css/2.fbe3af13.chunk.css.map": "/Happyyy/samstack/static/css/2.fbe3af13.chunk.css.map",
+  "static/css/main.0ce8044b.chunk.css.map": "/Happyyy/samstack/static/css/main.0ce8044b.chunk.css.map"
 }

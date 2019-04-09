@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/users/hfeng/repo/samstack-build/precache-manifest.6268acc3c85001ec7efaa45869d4afb3.js"
+  "/Happyyy/samstack/precache-manifest.977ba0b86f06171c7f916f11ef75782c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/users/hfeng/repo/samstack-build/index.html", {
+workbox.routing.registerNavigationRoute("/Happyyy/samstack/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
